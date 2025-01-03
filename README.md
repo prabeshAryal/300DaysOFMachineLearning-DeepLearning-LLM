@@ -3,15 +3,15 @@
 
 | Books and Resources | Status of Completion |
 | ----- | -----|
-| 1. [**Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction?page=1) | ✅ |
-| 2.[**Hands-On Machine Learning with Scikit-Learn and TensorFlow**](https://github.com/ageron/handson-ml3)| ✅ |
-| 3.[**Intro to DeepLearning**](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | ✅ |
-| 4.[**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?)|  ✅  |
-| 5.[**LLM from Scratch**](https://youtu.be/UU1WVnMk4E8?si=2r58NpTIn-Z0Y_Z2)| ✅ |
-| 6.[**Hugging face Nlp course**](https://huggingface.co/learn/nlp-course)|  ✅  |
+| 1. [**Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction?page=1) | ❌ |
+| 2.[**Hands-On Machine Learning with Scikit-Learn and TensorFlow**](https://github.com/ageron/handson-ml3)| ❌ |
+| 3.[**Intro to DeepLearning**](https://www.youtube.com/watch?v=QDX-1M5Nj7s&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) | ❌ |
+| 4.[**Deep Learning Specialization**](https://www.coursera.org/specializations/deep-learning?)|  ❌  |
+| 5.[**LLM from Scratch**](https://youtu.be/UU1WVnMk4E8?si=2r58NpTIn-Z0Y_Z2)| ❌ |
+| 6.[**Hugging face Nlp course**](https://huggingface.co/learn/nlp-course)|  ❌  |
 | 7.[**LLM course**](https://github.com/mlabonne/llm-course/tree/main)| 🏊 |
-| 8.[**Efficiently Serving LLMs**](https://learn.deeplearning.ai/courses/efficiently-serving-llms) | ✅ | 
-| 9.[**Langchain docs**](https://python.langchain.com/docs/get_started/introduction) | ✅ |
+| 8.[**Efficiently Serving LLMs**](https://learn.deeplearning.ai/courses/efficiently-serving-llms) | ❌ | 
+| 9.[**Langchain docs**](https://python.langchain.com/docs/get_started/introduction) | ❌ |
 
 
 
